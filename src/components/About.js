@@ -1,9 +1,13 @@
 import React from "react";
 
-function About() {
+function About( { movieData } ) {
+    const {plot, language, actors, awards} = movieData
     return (
         <div>
-            #About
+            <li>{plot}</li>
+            <li>{actors}</li>
+            <li>{awards}</li>
+            <li>{language}</li>
         </div>
     )
 }
