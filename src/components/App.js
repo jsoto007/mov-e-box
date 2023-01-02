@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import logo from '../logo.svg';
 import '../App.css';
 import Header from "./Header"
+import MovieCard from './MovieCard';
+import MovieContainer from './MovieContainer';
 
 function App() {
   const [movieData, setMovieData] = useState([])
@@ -12,12 +14,11 @@ function App() {
       .then((data) => setMovieData(data))
   }, [])
 
-  console.log()
-
   return (
     <div className="App">
       <header className="App-header">
         <Header />
+        <MovieContainer movieData={movieData} />
         <img src={logo} alt="React Logo" />
       </header>
     </div>

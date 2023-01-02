@@ -1,10 +1,14 @@
 import React from "react";
 
-function MovieCard() {
+function MovieCard( { movieData } ) {
+    const { title, year, genre, runtime, poster} = movieData
     return (
-        <div>
-            #Movie Card
-        </div>
+        <li>
+            <div>
+                <img src={poster} alt={title} />
+
+            </div>
+        </li>
     )
 }
 
