@@ -3,9 +3,8 @@ import About from "./About";
 
 function MovieCard( { movieData } ) {
     const { title, year, genre, runtime, poster} = movieData
-    console.log(poster)
+
     return (
-        <li>
             <div>
                 <img src={poster} alt={title} />
                 <ul>Release: {year}</ul>
@@ -14,9 +13,7 @@ function MovieCard( { movieData } ) {
                 <About 
                 movieData={movieData}
                 />
-
             </div>
-        </li>
     )
 }
 

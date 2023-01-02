@@ -4,10 +4,12 @@ function About( { movieData } ) {
     const {plot, language, actors, awards} = movieData
     return (
         <div>
-            <li>{plot}</li>
-            <li>{actors}</li>
-            <li>{awards}</li>
-            <li>{language}</li>
+            <li>
+                <ul>Plot: {plot}</ul>
+                <ul>Actors: {actors}</ul>
+                <ul>Awards: {awards}</ul>
+                <ul>Language: {language}</ul>
+            </li>
         </div>
     )
 }
