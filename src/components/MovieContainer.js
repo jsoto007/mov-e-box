@@ -13,8 +13,9 @@ function MovieContainer( { movieData } ) {
                         />
 
                     )
-                })
+                })  
             }
+            
         </div>
     )
 }

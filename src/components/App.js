@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import logo from '../logo.svg';
+import { Route, Switch } from "react-router-dom";
 import '../App.css';
 import Header from "./Header"
 import MovieCard from './MovieCard';
 import MovieContainer from './MovieContainer';
+import NavBar from './NavBar';
 
 function App() {
   const [movieData, setMovieData] = useState([])
@@ -17,9 +18,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Header />
-        <MovieContainer movieData={movieData} />
-        <img src={logo} alt="React Logo" />
+        <NavBar />
+        <Switch>
+          <Route exact path="/">
+            <Header />
+          </Route>
+          <Route exact path="/movies">
+            <MovieContainer movieData={movieData} />
+          </Route>
+        </Switch>
+      
       </header>
     </div>
   );
