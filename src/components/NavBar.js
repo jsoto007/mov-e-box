@@ -3,7 +3,7 @@ import { NavLink, useHistory } from "react-router-dom";
 
 function NavBar() {
     return (
-        <div>
+        <nav>
             <NavLink
               to="/"
               exact
@@ -26,7 +26,8 @@ function NavBar() {
             >
               About Movies
             </NavLink>
-        </div>
+            
+        </nav>
     )
 }
 

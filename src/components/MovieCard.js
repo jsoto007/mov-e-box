@@ -1,8 +1,9 @@
 import React from "react";
 import About from "./About";
+import { NavLink } from "react-router-dom";
 
 function MovieCard( { movieData } ) {
-    const { title, year, genre, runtime, poster} = movieData
+    const { id,title, year, genre, runtime, poster} = movieData
 
     return (
             <div>
@@ -10,9 +11,9 @@ function MovieCard( { movieData } ) {
                 <ul>Release: {year}</ul>
                 <ul>Genre: {genre}</ul>
                 <ul>Runtime: {runtime}</ul>
-                <About 
-                movieData={movieData}
-                />
+                <NavLink to={`/movies/${id}`}>
+                Movie Info
+                </NavLink>
             </div>
     )
 }

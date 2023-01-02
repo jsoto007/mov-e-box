@@ -5,6 +5,7 @@ import Header from "./Header"
 import MovieCard from './MovieCard';
 import MovieContainer from './MovieContainer';
 import NavBar from './NavBar';
+import MovieInfo from "./MovieInfo"
 
 function App() {
   const [movieData, setMovieData] = useState([])
@@ -23,8 +24,14 @@ function App() {
           <Route exact path="/">
             <Header />
           </Route>
+          <Route  exact path="/movies/:id">
+            <MovieInfo movieData={movieData} />
+          </Route>
           <Route exact path="/movies">
             <MovieContainer movieData={movieData} />
+          </Route>
+          <Route exact path="*">
+            <h1>404 URL not found</h1>
           </Route>
         </Switch>
       
