@@ -1,7 +1,7 @@
 {
   "movies": [
       {
-          "id": 0,
+          "id": 1,
           "title": "Avatar",
           "year": "2009",
           "rated": "PG-13",
@@ -15,7 +15,7 @@
           "language": "English, Spanish",
           "country": "USA, UK",
           "awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+          "poster": "https://cdna.artstation.com/p/assets/images/images/031/645/214/large/shreyas-raut-avatar-2.jpg?1604210989",
           "metascore": "83",
           "imdbRating": "7.9",
           "imdbVotes": "890,617",
@@ -31,7 +31,7 @@
           ]
         },
         {
-          "id": 1,
+          "id": 2,
           "title": "I Am Legend",
           "year": "2007",
           "rated": "PG-13",
@@ -45,7 +45,7 @@
           "language": "English",
           "country": "USA",
           "awards": "9 wins & 21 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg",
+          "poster": "https://ajmoviefreak.com/wp-content/uploads/2020/10/91Xmg5sQQZL._AC_SL1500_.jpg",
           "metascore": "65",
           "imdbRating": "7.2",
           "imdbVotes": "533,874",
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 3,
           "title": "300",
           "year": "2006",
           "rated": "R",
@@ -74,7 +74,7 @@
           "language": "English",
           "country": "USA",
           "awards": "16 wins & 42 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg",
+          "poster": "https://images.moviesanywhere.com/265d2dfeed8bb1f9017389971831b00c/c8711a65-2434-4dd1-9548-00e363794409.jpg",
           "metascore": "52",
           "imdbRating": "7.7",
           "imdbVotes": "611,046",
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "id": 3,
+          "id": 4,
           "title": "The Avengers",
           "year": "2012",
           "rated": "PG-13",
@@ -102,7 +102,7 @@
           "language": "English, Russian",
           "country": "USA",
           "awards": "Nominated for 1 Oscar. Another 34 wins & 75 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg",
+          "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03_0.jpg",
           "metascore": "69",
           "imdbRating": "8.1",
           "imdbVotes": "1,003,301",
@@ -118,7 +118,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 5,
           "title": "The Wolf of Wall Street",
           "year": "2013",
           "rated": "R",
@@ -132,7 +132,7 @@
           "language": "English, French",
           "country": "USA",
           "awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+          "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/05/27/1902189635722/TWWS_SAlone_16_9_1920x1080_NB_1104636_1920x1080.jpg",
           "metascore": "75",
           "imdbRating": "8.2",
           "imdbVotes": "786,985",
@@ -148,7 +148,7 @@
           ]
         },
         {
-          "id": 5,
+          "id": 6,
           "title": "Interstellar",
           "year": "2014",
           "rated": "PG-13",
@@ -162,7 +162,7 @@
           "language": "English",
           "country": "USA, UK",
           "awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+          "poster": "https://cf.geekdo-images.com/p2zzC8ZdzwtQVIGXdpK8QQ__opengraph_left/img/y1KT2e0RgEVIB1TtCnbvhVPEgNI=/fit-in/445x445/filters:strip_icc()/pic6380476.png",
           "metascore": "74",
           "imdbRating": "8.6",
           "imdbVotes": "937,412",
@@ -178,9 +178,9 @@
           ]
         },
         {
-          "id": 6,
+          "id": 7,
           "title": "Game of Thrones",
-          "year": "2011–",
+          "year": "2011",
           "rated": "TV-MA",
           "released": "17 Apr 2011",
           "runtime": "56 min",
@@ -192,7 +192,7 @@
           "language": "English",
           "country": "USA, UK",
           "awards": "Won 1 Golden Globe. Another 185 wins & 334 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMjM5OTQ1MTY5Nl5BMl5BanBnXkFtZTgwMjM3NzMxODE@._V1_SX300.jpg",
+          "poster": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gt8-key-fb-9x16-sansa-1551376706.jpg",
           "metascore": "N/A",
           "imdbRating": "9.5",
           "imdbVotes": "1,046,830",
@@ -209,9 +209,9 @@
           ]
         },
         {
-          "id": 7,
+          "id": 8,
           "title": "Vikings",
-          "year": "2013–",
+          "year": "2013",
           "rated": "TV-14",
           "released": "03 Mar 2013",
           "runtime": "44 min",
@@ -223,7 +223,7 @@
           "language": "English, Old English, Norse, Old, Latin",
           "country": "Ireland, Canada",
           "awards": "Nominated for 7 Primetime Emmys. Another 17 wins & 49 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BOTEzNzI3MDc0N15BMl5BanBnXkFtZTgwMzk1MzA5NzE@._V1_SX300.jpg",
+          "poster": "https://m.media-amazon.com/images/I/811CTAgn-xL._RI_.jpg",
           "metascore": "N/A",
           "imdbRating": "8.6",
           "imdbVotes": "198,041",
@@ -240,9 +240,9 @@
           ]
         },
         {
-          "id": 8,
+          "id": 9,
           "title": "Gotham",
-          "year": "2014–",
+          "year": "2014",
           "rated": "TV-14",
           "released": "01 Aug 2014",
           "runtime": "42 min",
@@ -254,7 +254,7 @@
           "language": "English",
           "country": "USA",
           "awards": "Nominated for 4 Primetime Emmys. Another 3 wins & 22 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTY2MjMwNDE4OV5BMl5BanBnXkFtZTgwNjI1NjU0OTE@._V1_SX300.jpg",
+          "poster": "https://theactionelite.com/wp-content/uploads/2018/12/gotham-chars.jpg",
           "metascore": "N/A",
           "imdbRating": "8.0",
           "imdbVotes": "133,375",
@@ -271,7 +271,7 @@
           ]
         },
         {
-          "id": 9,
+          "id": 10,
           "title": "Power",
           "year": "2014–",
           "rated": "TV-MA",
@@ -285,7 +285,7 @@
           "language": "English",
           "country": "USA",
           "awards": "1 win & 6 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BOTA4NTkzMjUzOF5BMl5BanBnXkFtZTgwNzg5ODkxOTE@._V1_SX300.jpg",
+          "poster": "https://stz1.imgix.net/web/contentId/21220/type/KEY/dimension/2560x1440/lang/en-US?auto=compress,format",
           "metascore": "N/A",
           "imdbRating": "8.0",
           "imdbVotes": "14,770",
@@ -302,7 +302,7 @@
           ]
         },
         {
-          "id": 10,
+          "id": 11,
           "title": "Narcos",
           "year": "2015–",
           "rated": "TV-MA",
@@ -316,7 +316,7 @@
           "language": "English, Spanish",
           "country": "USA",
           "awards": "Nominated for 2 Golden Globes. Another 4 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTU0ODQ4NDg2OF5BMl5BanBnXkFtZTgwNzczNTE4OTE@._V1_SX300.jpg",
+          "poster": "https://flxt.tmsimg.com/assets/p11993086_b_v13_ag.jpg",
           "metascore": "N/A",
           "imdbRating": "8.9",
           "imdbVotes": "118,680",
@@ -333,7 +333,7 @@
           ]
         },
         {
-          "id": 11,
+          "id": 12,
           "title": "Breaking Bad",
           "year": "2008–2013",
           "rated": "TV-14",
@@ -347,7 +347,7 @@
           "language": "English, Spanish",
           "country": "USA",
           "awards": "Won 2 Golden Globes. Another 132 wins & 218 nominations.",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1_SX300.jpg",
+          "poster": "https://www.boredpanda.com/blog/wp-content/uploads/2018/06/breaking-bad-anniversary-10-year-cast-reunion-photoshoot-5b361591b3476__880.jpg",
           "metascore": "N/A",
           "imdbRating": "9.5",
           "imdbVotes": "889,883",
@@ -364,7 +364,7 @@
           ]
         },
         {
-          "id": 12,
+          "id": 13,
           "ComingSoon": true,
           "title": "Doctor Strange",
           "year": "2016",
@@ -379,7 +379,7 @@
           "language": "English",
           "country": "USA",
           "awards": "N/A",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+          "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/226DB7C90442683C5F252E9578355540E75C0643925E5ACA9EF87B5AB7340977/scale?width=1200&aspectRatio=1.78&format=jpeg",
           "metascore": "N/A",
           "imdbRating": "N/A",
           "imdbVotes": "N/A",
@@ -393,7 +393,7 @@
           ]
         },
         {
-          "id": 13,
+          "id": 14,
           "ComingSoon": true,
           "title": "Rogue One: A Star Wars Story",
           "year": "2016",
@@ -424,7 +424,7 @@
           ]
         },
         {
-          "id": 14,
+          "id": 15,
           "ComingSoon": true,
           "title": "Assassin's Creed",
           "year": "2016",
@@ -439,7 +439,7 @@
           "language": "English",
           "country": "UK, France, USA, Hong Kong",
           "awards": "N/A",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTU2MTQwMjU1OF5BMl5BanBnXkFtZTgwMDA5NjU5ODE@._V1_SX300.jpg",
+          "poster": "https://lumiere-a.akamaihd.net/v1/images/image_cf3e5a4d.jpeg",
           "metascore": "N/A",
           "imdbRating": "N/A",
           "imdbVotes": "N/A",
@@ -454,7 +454,7 @@
           ]
         },
         {
-          "id": 15,
+          "id": 16,
           "ComingSoon": true,
           "title": "Luke Cage",
           "year": "2016–",
@@ -469,7 +469,7 @@
           "language": "English",
           "country": "USA",
           "awards": "N/A",
-          "poster": "http://ia.media-imdb.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_SX300.jpg",
+          "poster": "https://flxt.tmsimg.com/assets/p12738283_b_v13_ad.jpg",
           "metascore": "N/A",
           "imdbRating": "N/A",
           "imdbVotes": "N/A",
