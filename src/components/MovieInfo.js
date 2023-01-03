@@ -13,13 +13,11 @@ function MovieInfo() {
     }, [id])
     return (
         <div>
-            <li>
             <img src={poster} alt={title} />
                 <ul>Plot: {plot}</ul>
                 <ul>Actors: {actors}</ul>
                 <ul>Awards: {awards}</ul>
                 <ul>Language: {language}</ul>
-            </li>
         </div>
     )
 }

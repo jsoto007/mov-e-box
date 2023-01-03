@@ -11,9 +11,9 @@ function NavBar() {
                 Home
             </NavLink>
             <NavLink
-              to="Search"
+              to="about"
               >
-                Search
+                About
             </NavLink>
             <NavLink
               to="/movies"
@@ -21,12 +21,6 @@ function NavBar() {
               >
                 Movies
             </NavLink>
-            <NavLink
-              to="/movies/about"
-            >
-              About Movies
-            </NavLink>
-            
         </nav>
     )
 }

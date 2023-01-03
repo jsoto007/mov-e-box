@@ -17,3 +17,19 @@ nav a.active {
   min-height: 400px;
   background-color: rgba(179, 221, 252, 0.196);
 }
+
+img {
+  height: 350px;
+  width: 450px;
+}
+
+.movie-card {
+  padding: 400 px;
+  border: 1px;
+  background-color: brown;
+}
+
+.movie-box {
+  float: left;
+  
+}
