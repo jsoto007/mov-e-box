@@ -6,7 +6,7 @@ function MovieCard( { movieData } ) {
     const { id,title, year, genre, runtime, poster} = movieData
 
     return (
-            <div class="movie-card">
+            <div className="movie-card">
                 <img src={poster} alt={title} />
                 <ul>Release: {year}</ul>
                 <ul>Genre: {genre}</ul>

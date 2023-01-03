@@ -3,7 +3,7 @@ import MovieCard from "./MovieCard";
 
 function MovieContainer( { movieData } ) {
     return (
-        <div class="movie-box">
+        <div className="movie-box">
             {
                 movieData.map((item) => {
                     return (
