@@ -1,6 +1,6 @@
 import React from "react";
 
-function Search() {
+function Search( { searchData, setSearchData } ) {
 
   function handleSubmit(e) {
     e.preventDefualt();
@@ -11,8 +11,8 @@ function Search() {
             type="text"
             id="search"
             placeholder="Search by movie name..."
-            value="search..."
-            
+            value={searchData}
+            onChange={(e) => setSearchData(e.target.value)}
           />
           <button type="submit">👀</button>
         </form>

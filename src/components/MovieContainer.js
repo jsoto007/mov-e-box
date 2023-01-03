@@ -1,14 +1,26 @@
-import React from "react";
+import React, { useState } from "react";
 import MovieCard from "./MovieCard";
 import Search from "./Search";
 
 function MovieContainer( { movieData } ) {
+  const [searchData, setSearchData] = useState("")
+
+  const updatedDisplayItems = movieData.filter((item) => {
+    return (
+      item.title.toUpperCase().includes(searchData.toUpperCase())
+    )
+  })
+
+  console.log(updatedDisplayItems)
 
     return (
         <div className="movie-box">
-          <Search />
+          <Search
+            searchData={searchData}
+            setSearchData={setSearchData}
+          />
             {
-              movieData.map((item) => {
+              updatedDisplayItems.map((item) => {
                 return (
                   <MovieCard 
                     movieData={item}
