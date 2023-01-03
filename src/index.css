@@ -14,22 +14,24 @@ code {
 
 nav a.active {
   height: 50 vh;
+  padding-top: 10px;
   min-height: 400px;
   background-color: rgba(179, 221, 252, 0.196);
 }
 
 img {
   height: 350px;
-  width: 450px;
+  width: 400px;
 }
 
 .movie-card {
   padding: 400 px;
+  height: 500px;
   border: 1px;
   background-color: brown;
 }
 
 .movie-box {
-  float: left;
-  
+  float: left;  
 }
+

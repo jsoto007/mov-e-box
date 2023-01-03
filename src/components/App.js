@@ -8,6 +8,8 @@ import NavBar from './NavBar';
 import MovieInfo from "./MovieInfo"
 import About from './About';
 
+
+
 function App() {
   const [movieData, setMovieData] = useState([])
 

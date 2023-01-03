@@ -7,6 +7,7 @@ function MovieCard( { movieData } ) {
 
     return (
             <div className="movie-card">
+              
                 <img src={poster} alt={title} />
                 <ul>Release: {year}</ul>
                 <ul>Genre: {genre}</ul>

@@ -1,10 +1,21 @@
 import React from "react";
 
 function Search() {
+
+  function handleSubmit(e) {
+    e.preventDefualt();
+  }
     return (
-        <div>
-            This is Search
-        </div>
+        <form className="search-bar" onSubmit={handleSubmit}>
+          <input 
+            type="text"
+            id="search"
+            placeholder="Search by movie name..."
+            value="search..."
+            
+          />
+          <button type="submit">👀</button>
+        </form>
     )
 }
 
