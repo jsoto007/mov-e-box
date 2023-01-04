@@ -21,6 +21,11 @@ function NavBar() {
               >
                 Movies
             </NavLink>
+            <NavLink
+              to="/add-movies"
+              >
+                Add Movies
+              </NavLink>
         </nav>
     )
 }

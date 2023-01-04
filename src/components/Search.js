@@ -10,7 +10,7 @@ function Search( { searchData, setSearchData } ) {
           <input 
             type="text"
             id="search"
-            placeholder="Search by movie name..."
+            placeholder="movie name..."
             value={searchData}
             onChange={(e) => setSearchData(e.target.value)}
           />

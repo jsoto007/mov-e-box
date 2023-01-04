@@ -6,6 +6,7 @@ import MovieContainer from './MovieContainer';
 import NavBar from './NavBar';
 import MovieInfo from "./MovieInfo"
 import About from './About';
+import NewMovieForm from './NewMovieForm';
 
 
 
@@ -35,9 +36,12 @@ function App() {
           <Route exact path="/about">
             <About />
           </Route>
-          <Route  path="*">
-            <h1>404 URL not found</h1>
+          <Route path="/add-movies">
+            <NewMovieForm />
           </Route>
+          {/* <Route  path="*">
+            <h1>404 URL not found</h1>
+          </Route> */}
         </Switch>
       
       </header>
