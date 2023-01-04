@@ -6,10 +6,7 @@ function About( { movieData } ) {
         <div>
           #About component
             <li>
-                {/* <ul>Plot: {plot}</ul>
-                <ul>Actors: {actors}</ul>
-                <ul>Awards: {awards}</ul>
-                <ul>Language: {language}</ul> */}
+              
             </li>
         </div>
     )
