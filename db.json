@@ -13,22 +13,9 @@
           "actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
           "plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
           "language": "English, Spanish",
-          "country": "USA, UK",
           "awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
           "poster": "https://cdna.artstation.com/p/assets/images/images/031/645/214/large/shreyas-raut-avatar-2.jpg?1604210989",
-          "metascore": "83",
-          "imdbRating": "7.9",
-          "imdbVotes": "890,617",
-          "imdbID": "tt0499549",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODQ3NjMyMl5BMl5BanBnXkFtZTcwODg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 2,
@@ -43,21 +30,9 @@
           "actors": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
           "plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
           "language": "English",
-          "country": "USA",
           "awards": "9 wins & 21 nominations.",
           "poster": "https://ajmoviefreak.com/wp-content/uploads/2020/10/91Xmg5sQQZL._AC_SL1500_.jpg",
-          "metascore": "65",
-          "imdbRating": "7.2",
-          "imdbVotes": "533,874",
-          "imdbID": "tt0480249",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDg2MDU4M15BMl5BanBnXkFtZTYwMTA0Nzc4._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDM1OTU5OV5BMl5BanBnXkFtZTYwMjA0Nzc4._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 3,
@@ -72,20 +47,9 @@
           "actors": "Gerard Butler, Lena Headey, Dominic West, David Wenham",
           "plot": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
           "language": "English",
-          "country": "USA",
           "awards": "16 wins & 42 nominations.",
           "poster": "https://images.moviesanywhere.com/265d2dfeed8bb1f9017389971831b00c/c8711a65-2434-4dd1-9548-00e363794409.jpg",
-          "metascore": "52",
-          "imdbRating": "7.7",
-          "imdbVotes": "611,046",
-          "imdbID": "tt0416449",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNTg5MzMwMV5BMl5BanBnXkFtZTcwMzA2NTIyMw@@._V1_SX1777_CR0,0,1777,937_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTgyNTMzNF5BMl5BanBnXkFtZTcwNDA2NTIyMw@@._V1_SX1777_CR0,0,1777,935_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjQzOTEwMV5BMl5BanBnXkFtZTcwMzE2NTIyMw@@._V1_SX1777_CR0,0,1777,947_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 4,
@@ -100,22 +64,9 @@
           "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
           "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
           "language": "English, Russian",
-          "country": "USA",
           "awards": "Nominated for 1 Oscar. Another 34 wins & 75 nominations.",
           "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03_0.jpg",
-          "metascore": "69",
-          "imdbRating": "8.1",
-          "imdbVotes": "1,003,301",
-          "imdbID": "tt0848228",
-          "type": "movie",
-          "response": "True",
-           "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjY0NzE4OTReQTJeQWpwZ15BbWU3MDczODg2Nzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzEzMjcyM15BMl5BanBnXkFtZTcwNDM4ODY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwMzM2MTg1M15BMl5BanBnXkFtZTcwNjM4ODY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NzM2Mjc5MV5BMl5BanBnXkFtZTcwMTkwOTY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MzQ3NjA5N15BMl5BanBnXkFtZTcwMzY5OTY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 5,
@@ -130,22 +81,9 @@
           "actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
           "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
           "language": "English, French",
-          "country": "USA",
           "awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
           "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/05/27/1902189635722/TWWS_SAlone_16_9_1920x1080_NB_1104636_1920x1080.jpg",
-          "metascore": "75",
-          "imdbRating": "8.2",
-          "imdbVotes": "786,985",
-          "imdbID": "tt0993846",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNDIwMDIxNzk3Ml5BMl5BanBnXkFtZTgwMTg0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzAxODAyMl5BMl5BanBnXkFtZTgwMDg0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMDk1MDE4NzVeQTJeQWpwZ15BbWU4MDM4NDM0ODAx._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MTY4NDk4Nl5BMl5BanBnXkFtZTgwNjc0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMTg4MDI0Ml5BMl5BanBnXkFtZTgwOTY0MzQ4MDE@._V1_SY1000_CR0,0,1553,1000_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 6,
@@ -160,22 +98,9 @@
           "actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
           "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
           "language": "English",
-          "country": "USA, UK",
           "awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
           "poster": "https://cf.geekdo-images.com/p2zzC8ZdzwtQVIGXdpK8QQ__opengraph_left/img/y1KT2e0RgEVIB1TtCnbvhVPEgNI=/fit-in/445x445/filters:strip_icc()/pic6380476.png",
-          "metascore": "74",
-          "imdbRating": "8.6",
-          "imdbVotes": "937,412",
-          "imdbID": "tt0816692",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NTEwOTMxMV5BMl5BanBnXkFtZTgwMjMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQ5ODE2MzEwM15BMl5BanBnXkFtZTgwMTMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4Njk4MzY0Nl5BMl5BanBnXkFtZTgwMzIyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE3MTM0MTc3Ml5BMl5BanBnXkFtZTgwMDIyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYzNjE2NDk3N15BMl5BanBnXkFtZTgwNzEyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 7,
@@ -190,23 +115,9 @@
           "actors": "Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington",
           "plot": "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, plans to return after thousands of years in the North.",
           "language": "English",
-          "country": "USA, UK",
           "awards": "Won 1 Golden Globe. Another 185 wins & 334 nominations.",
           "poster": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gt8-key-fb-9x16-sansa-1551376706.jpg",
-          "metascore": "N/A",
-          "imdbRating": "9.5",
-          "imdbVotes": "1,046,830",
-          "imdbID": "tt0944947",
-          "type": "series",
-          "totalSeasons": "7",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc1MGUyNzItNWRkOC00MjM1LWJjNjMtZTZlYWIxMGRmYzVlXkEyXkFqcGdeQXVyMzU3MDEyNjk@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BZjZkN2M5ODgtMjQ2OC00ZjAxLWE1MjMtZDE0OTNmNGM0NWEwXkEyXkFqcGdeQXVyNjUxNzgwNTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMDk4Y2Y1MDAtNGVmMC00ZTlhLTlmMmQtYjcyN2VkNzUzZjg2XkEyXkFqcGdeQXVyNjUxNzgwNTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNjZjNWIzMzQtZWZjYy00ZTkwLWJiMTYtOWRkZDBhNWJhY2JmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyMTRjZWEtM2UxMS00ZjU5LWIxMTYtZDA5YmJhZmRjYTc4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
-          ]
+          "type": "series"
         },
         {
           "id": 8,
@@ -221,23 +132,9 @@
           "actors": "Travis Fimmel, Clive Standen, Gustaf Skarsgård, Katheryn Winnick",
           "plot": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.",
           "language": "English, Old English, Norse, Old, Latin",
-          "country": "Ireland, Canada",
           "awards": "Nominated for 7 Primetime Emmys. Another 17 wins & 49 nominations.",
           "poster": "https://m.media-amazon.com/images/I/811CTAgn-xL._RI_.jpg",
-          "metascore": "N/A",
-          "imdbRating": "8.6",
-          "imdbVotes": "198,041",
-          "imdbID": "tt2306299",
-          "type": "series",
-          "totalSeasons": "5",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5MTM1ODUxNV5BMl5BanBnXkFtZTgwNTAzOTI2ODE@._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNzU2NDcxODMyOF5BMl5BanBnXkFtZTgwNDAzOTI2ODE@._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzMzIzOTU2M15BMl5BanBnXkFtZTgwODMzMTkyODE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTQ2MDA3NF5BMl5BanBnXkFtZTgwODkxMDUxODE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOTQ3NTA5N15BMl5BanBnXkFtZTgwMzExMDUxODE@._V1_SY1000_SX1500_AL_.jpg"
-          ]
+          "type": "series"
         },
         {
           "id": 9,
@@ -252,23 +149,9 @@
           "actors": "Ben McKenzie, Donal Logue, David Mazouz, Sean Pertwee",
           "plot": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
           "language": "English",
-          "country": "USA",
           "awards": "Nominated for 4 Primetime Emmys. Another 3 wins & 22 nominations.",
           "poster": "https://theactionelite.com/wp-content/uploads/2018/12/gotham-chars.jpg",
-          "metascore": "N/A",
-          "imdbRating": "8.0",
-          "imdbVotes": "133,375",
-          "imdbID": "tt3749900",
-          "type": "series",
-          "totalSeasons": "3",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNDI3ODYyODY4OV5BMl5BanBnXkFtZTgwNjE5NDMwMDI@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5OTExMTIwNF5BMl5BanBnXkFtZTgwMjI5NDMwMDI@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3MDY2NjA3MzBeQTJeQWpwZ15BbWU4MDU0MDkzODgx._V1_SX1499_CR0,0,1499,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3MzYzNDgzOV5BMl5BanBnXkFtZTgwMjQwOTM4ODE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODAyNjk0NF5BMl5BanBnXkFtZTgwODU4MzMyODE@._V1_SY1000_CR0,0,1500,1000_AL_.jpg"
-          ]
+          "type": "series"
         },
         {
           "id": 10,
@@ -283,23 +166,9 @@
           "actors": "Omari Hardwick, Joseph Sikora, Andy Bean, Lela Loren",
           "plot": "James \"Ghost\" St. Patrick, a wealthy New York night club owner who has it all, catering for the city's elite and dreaming big, lives a double life as a drug kingpin.",
           "language": "English",
-          "country": "USA",
           "awards": "1 win & 6 nominations.",
           "poster": "https://stz1.imgix.net/web/contentId/21220/type/KEY/dimension/2560x1440/lang/en-US?auto=compress,format",
-          "metascore": "N/A",
-          "imdbRating": "8.0",
-          "imdbVotes": "14,770",
-          "imdbID": "tt3281796",
-          "type": "series",
-          "totalSeasons": "3",
-          "response": "True",
-           "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2ODg0MzMzM15BMl5BanBnXkFtZTgwODYxODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMjA0MzczNV5BMl5BanBnXkFtZTgwNTIyODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MTI0NzQ2NV5BMl5BanBnXkFtZTgwMDkxODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4Mzk1ODcxM15BMl5BanBnXkFtZTgwNDQyODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNTE0NDI1M15BMl5BanBnXkFtZTgwMDQyODA5NTE@._V1_SY1000_SX1500_AL_.jpg"
-          ]
+          "type": "series"
         },
         {
           "id": 11,
@@ -314,23 +183,9 @@
           "actors": "Wagner Moura, Boyd Holbrook, Pedro Pascal, Joanna Christie",
           "plot": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
           "language": "English, Spanish",
-          "country": "USA",
           "awards": "Nominated for 2 Golden Globes. Another 4 nominations.",
           "poster": "https://flxt.tmsimg.com/assets/p11993086_b_v13_ag.jpg",
-          "metascore": "N/A",
-          "imdbRating": "8.9",
-          "imdbVotes": "118,680",
-          "imdbID": "tt2707408",
-          "type": "series",
-          "totalSeasons": "2",
-          "response": "True",
-           "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2MDMzMTc0MF5BMl5BanBnXkFtZTgwMTAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMDkyOTEyNV5BMl5BanBnXkFtZTgwNjY3Mjc3OTE@._V1_SY1000_SX1500_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NDUwMTU2NV5BMl5BanBnXkFtZTgwNTI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BODA1NjAyMTQ3Ml5BMl5BanBnXkFtZTgwNjI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzQ0OTAwNl5BMl5BanBnXkFtZTgwMDAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-          ]
+          "type": "series"
         },
         {
           "id": 12,
@@ -345,23 +200,9 @@
           "actors": "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris",
           "plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
           "language": "English, Spanish",
-          "country": "USA",
           "awards": "Won 2 Golden Globes. Another 132 wins & 218 nominations.",
           "poster": "https://www.boredpanda.com/blog/wp-content/uploads/2018/06/breaking-bad-anniversary-10-year-cast-reunion-photoshoot-5b361591b3476__880.jpg",
-          "metascore": "N/A",
-          "imdbRating": "9.5",
-          "imdbVotes": "889,883",
-          "imdbID": "tt0903747",
-          "type": "series",
-          "totalSeasons": "5",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzI5NDc5Nl5BMl5BanBnXkFtZTgwMjM0MTI2MDE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NDkwNDk5NV5BMl5BanBnXkFtZTgwNDM0MTI2MDE@._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NDcyNDMzMF5BMl5BanBnXkFtZTgwOTI0MTI2MDE@._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzMTczMjM3NjFeQTJeQWpwZ15BbWU4MDc1MTI1MzAx._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTE3MTgwMF5BMl5BanBnXkFtZTgwOTQxMjUzMDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-          ]
+          "type": "series"
         },
         {
           "id": 13,
@@ -377,20 +218,9 @@
           "actors": "Rachel McAdams, Benedict Cumberbatch, Mads Mikkelsen, Tilda Swinton",
           "plot": "After his career is destroyed, a brilliant but arrogant and conceited surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
           "language": "English",
-          "country": "USA",
           "awards": "N/A",
           "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/226DB7C90442683C5F252E9578355540E75C0643925E5ACA9EF87B5AB7340977/scale?width=1200&aspectRatio=1.78&format=jpeg",
-          "metascore": "N/A",
-          "imdbRating": "N/A",
-          "imdbVotes": "N/A",
-          "imdbID": "tt1211837",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODc1ODI5Ml5BMl5BanBnXkFtZTgwODMzMDY3OTE@._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNTAyNTU0NV5BMl5BanBnXkFtZTgwNzMzMDY3OTE@._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDc5NzUwNV5BMl5BanBnXkFtZTgwMDM3MDM2NzE@._V1_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 14,
@@ -406,22 +236,9 @@
           "actors": "Felicity Jones, Riz Ahmed, Mads Mikkelsen, Ben Mendelsohn",
           "plot": "The Rebellion makes a risky move to steal the plans to the Death Star, setting up the epic saga to follow.",
           "language": "English",
-          "country": "USA",
           "awards": "1 nomination.",
           "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyMzI2OTA3OF5BMl5BanBnXkFtZTgwNDg5NjQ0OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-          "metascore": "N/A",
-          "imdbRating": "N/A",
-          "imdbVotes": "N/A",
-          "imdbID": "tt3748528",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MzA4Nzk3NV5BMl5BanBnXkFtZTgwNjAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNDMxMTQzMjQxM15BMl5BanBnXkFtZTgwNzAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNjkxOTk5NV5BMl5BanBnXkFtZTgwODAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BNjM4MzExNDAyNl5BMl5BanBnXkFtZTgwOTAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NTgxMDcyNV5BMl5BanBnXkFtZTgwMDExMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 15,
@@ -437,21 +254,9 @@
           "actors": "Michael Fassbender, Michael Kenneth Williams, Marion Cotillard, Jeremy Irons",
           "plot": "When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.",
           "language": "English",
-          "country": "UK, France, USA, Hong Kong",
           "awards": "N/A",
           "poster": "https://lumiere-a.akamaihd.net/v1/images/image_cf3e5a4d.jpeg",
-          "metascore": "N/A",
-          "imdbRating": "N/A",
-          "imdbVotes": "N/A",
-          "imdbID": "tt2094766",
-          "type": "movie",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyYzgyOWEtNTY2NS00NjRjLWJiNDYtMWViMjg5MWZjYjgzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOWYzOTctOTc4My00ZmJkLTgzMTctMmUxNDI5ODQzYzNjXkEyXkFqcGdeQXVyNDAyODU1Njc@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BZTY5ZGUxMTAtYTU0OC00NGQ2LTkzNzgtZGZmNjlmNjY3MGU0XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_SY1000_CR0,0,1500,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MWYwZTEtYzc5Yi00NGM2LTg1YTctNjY2YzQ0NDJhZDAwXkEyXkFqcGdeQXVyNDAyODU1Njc@._V1_SY1000_CR0,0,1499,1000_AL_.jpg"
-          ]
+          "type": "movie"
         },
         {
           "id": 16,
@@ -467,23 +272,9 @@
           "actors": "Mahershala Ali, Mike Colter, Frankie Faison, Erik LaRay Harvey",
           "plot": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
           "language": "English",
-          "country": "USA",
           "awards": "N/A",
           "poster": "https://flxt.tmsimg.com/assets/p12738283_b_v13_ad.jpg",
-          "metascore": "N/A",
-          "imdbRating": "N/A",
-          "imdbVotes": "N/A",
-          "imdbID": "tt3322314",
-          "type": "series",
-          "totalSeasons": "1",
-          "response": "True",
-          "images": [
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxNjc1NjI0NV5BMl5BanBnXkFtZTgwNzA0NzY0ODE@._V1_SY1000_CR0,0,1497,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MDg3NjY2OF5BMl5BanBnXkFtZTgwNDE1NDU4OTE@._V1_SY1000_CR0,0,1497,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BOTYzOTQyNDYxNl5BMl5BanBnXkFtZTgwNzA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjA3MTQ5Ml5BMl5BanBnXkFtZTgwOTA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
-            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@._V1_SY1000_CR0,0,1477,1000_AL_.jpg"
-          ]
+          "type": "series"
         }
   ]
 }

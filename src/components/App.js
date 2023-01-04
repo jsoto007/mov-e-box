@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { Route, Switch } from "react-router-dom";
 import '../App.css';
 import Header from "./Header"
-import MovieCard from './MovieCard';
 import MovieContainer from './MovieContainer';
 import NavBar from './NavBar';
 import MovieInfo from "./MovieInfo"
@@ -33,10 +32,10 @@ function App() {
           <Route exact path="/movies">
             <MovieContainer movieData={movieData} />
           </Route>
-          <Route  path="/about">
+          <Route exact path="/about">
             <About />
           </Route>
-          <Route exact path="*">
+          <Route  path="*">
             <h1>404 URL not found</h1>
           </Route>
         </Switch>

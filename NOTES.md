@@ -21,3 +21,8 @@ CSS styling
 
 https://www.w3schools.com/css/css_float_examples.asp
 
+controlled components:
+
+https://reactjs.org/docs/forms.html#controlled-components
+
+

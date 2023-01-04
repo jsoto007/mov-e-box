@@ -11,8 +11,6 @@ function MovieContainer( { movieData } ) {
     )
   })
 
-  console.log(updatedDisplayItems)
-
     return (
         <div className="movie-box">
           <Search
