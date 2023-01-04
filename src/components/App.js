@@ -20,7 +20,7 @@ function App() {
   }, [])
 
   function handleAddItem(newItem) {
-    setMovieData([newItem, ...movieData])
+    setMovieData([...movieData, newItem])
   }
 
   return (

@@ -277,9 +277,9 @@
       "type": "series"
     },
     {
-      "title": "sdfadsfas",
-      "poster": "http://localhost:3000/movies",
-      "released": "23423",
+      "title": "Spider Man: Far from Home",
+      "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "released": "2019",
       "rated": "",
       "runtime": "",
       "genre": "",
@@ -293,23 +293,7 @@
       "id": 17
     },
     {
-      "title": "Spider Man: ",
-      "poster": "",
-      "released": "",
-      "rated": "",
-      "runtime": "",
-      "genre": "",
-      "director": "",
-      "writer": "",
-      "actors": "",
-      "plot": "",
-      "language": "",
-      "awards": "",
-      "type": "",
-      "id": 18
-    },
-    {
-      "title": "Spider Man: Far from Home ",
+      "title": "Spider Man: Far from Home",
       "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
       "released": "2019",
       "rated": "",
@@ -322,7 +306,7 @@
       "language": "",
       "awards": "",
       "type": "",
-      "id": 19
+      "id": 18
     }
   ]
 }
