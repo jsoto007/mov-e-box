@@ -1,13 +1,12 @@
 import React, { useState } from "react";
 
 
-function NewMovieForm() {
+function NewMovieForm( { onAddItem } ) {
     const [formData, setFormData] = useState({
         title: "",
         poster: "",
-        year: "",
-        rated: "",
         released: "", 
+        rated: "",
         runtime: "",
         genre: "",
         director: "",
@@ -18,7 +17,20 @@ function NewMovieForm() {
         awards: "",
         type: ""
     })
-    console.log(formData)
+
+    function handleSubmit(e) {
+      e.preventDefault();
+
+      fetch("http://localhost:3000/movies", {
+         method: "POST",
+         headers: {
+            "Content-Type": "application/json",
+         },
+         body: JSON.stringify(formData),
+      })
+      .then((resp) => resp.json())
+      .then((newItem) => console.log(newItem))
+    }
 
     function handleChange(e) {
       const key = e.target.id
@@ -29,8 +41,8 @@ function NewMovieForm() {
     }
     return (
         <div>
-         <h3>New Movies</h3>
-         <form>
+         <h2>New Movies</h2>
+         <form onSubmit={handleSubmit}>
             <input 
                type="text"
                name="title"
@@ -47,7 +59,96 @@ function NewMovieForm() {
                onChange={handleChange}
                placeholder="Poster URL"
             />
-
+             <input 
+               type="text"
+               name="released"
+               id="released"
+               value={formData.released}
+               onChange={handleChange}
+               placeholder="Release Date"
+            />
+            <h3>Additonal Informaiton (obtional)</h3>
+             <input 
+               type="text"
+               name="rated"
+               id="rated"
+               value={formData.rated}
+               onChange={handleChange}
+               placeholder="Rated"
+            />
+              <input 
+               type="text"
+               name="runtime"
+               id="runtime"
+               value={formData.runtime}
+               onChange={handleChange}
+               placeholder="Runtime"
+            />
+               <input 
+               type="text"
+               name="genre"
+               id="genre"
+               value={formData.genre}
+               onChange={handleChange}
+               placeholder="Genre"
+            />
+            <input 
+               type="text"
+               name="director"
+               id="director"
+               value={formData.director}
+               onChange={handleChange}
+               placeholder="Director"
+            />
+            <input 
+               type="text"
+               name="writer"
+               id="writer"
+               value={formData.writer}
+               onChange={handleChange}
+               placeholder="writer"
+            />
+            <input 
+               type="text"
+               name="actors"
+               id="actors"
+               value={formData.actors}
+               onChange={handleChange}
+               placeholder="actors"
+            />
+            <input 
+               type="text"
+               name="plot"
+               id="plot"
+               value={formData.plot}
+               onChange={handleChange}
+               placeholder="Plot"
+            />
+            <input 
+               type="text"
+               name="languageot"
+               id="language"
+               value={formData.language}
+               onChange={handleChange}
+               placeholder="language"
+            />
+            <input 
+               type="text"
+               name="awards"
+               id="awards"
+               value={formData.awards}
+               onChange={handleChange}
+               placeholder="awards"
+            />
+             <input 
+               type="text"
+               name="type"
+               id="type"
+               value={formData.type}
+               onChange={handleChange}
+               placeholder="type"
+            />
+            <button type="submit">Add Movie</button>
          </form>  
         </div>
     )

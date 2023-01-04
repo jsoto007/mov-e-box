@@ -19,6 +19,10 @@ function App() {
       .then((data) => setMovieData(data))
   }, [])
 
+  function handleAddItem(newItem) {
+    setMovieData([newItem, ...movieData])
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -37,11 +41,8 @@ function App() {
             <About />
           </Route>
           <Route path="/add-movies">
-            <NewMovieForm />
+            <NewMovieForm onAddItem={handleAddItem} />
           </Route>
-          {/* <Route  path="*">
-            <h1>404 URL not found</h1>
-          </Route> */}
         </Switch>
       
       </header>
