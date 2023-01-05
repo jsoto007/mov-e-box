@@ -12,7 +12,7 @@ function MovieContainer( { movieData } ) {
   })
 
     return (
-        <div className="movie-box">
+        <div className="movie-container">
           <Search
             searchData={searchData}
             setSearchData={setSearchData}

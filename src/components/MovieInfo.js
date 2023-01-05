@@ -12,7 +12,7 @@ function MovieInfo() {
             .then((data) => setItemInfo(data))
     }, [id])
     return (
-        <div>
+        <div className="move-information">
             <img src={poster} alt={title} />
                 <ul>Plot: {plot}</ul>
                 <ul>Actors: {actors}</ul>

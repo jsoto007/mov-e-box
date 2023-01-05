@@ -19,17 +19,16 @@ nav a.active {
 }
 
 img {
-  height: 350px;
-  width: 400px;
+  height: 225px;
+  width: 250px;
+} 
+
+.movie-card {
+  float: left;
+  width: 20%;
+  padding: 25px;
 }
 
-.movie-box {
-  float: left;  
-}
-.movie-card {
-  padding: 400 px;
-  border: 1px;
-  background-color: brown;
-}
+
 
 
