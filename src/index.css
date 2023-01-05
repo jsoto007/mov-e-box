@@ -12,10 +12,19 @@ code {
     monospace;
 }
 
+#nav-bar {
+  border-radius: 12px;
+  background-color: rgba(86, 175, 253, 0.668);
+  padding: 2px;
+}
+
 nav a.active {
   height: 50 vh;
   min-height: 400px;
-  background-color: rgba(179, 221, 252, 0.196);
+  color: black;
+  border-radius: 12px;
+  border: 2px solid rgba(86, 175, 253, 0.695);
+  /* background-color: rgba(179, 221, 252, 0.196); */
 }
 
 img {
@@ -27,6 +36,7 @@ img {
   float: left;
   width: 20%;
   padding: 25px;
+  /* border: 2px solid rgba(119, 119, 119, 0.239); */
 }
 
 
