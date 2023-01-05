@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useHistory } from "react-router-dom";
 
 
 function NewMovieForm( { onAddItem } ) {
@@ -18,6 +19,8 @@ function NewMovieForm( { onAddItem } ) {
         type: ""
     })
 
+    const history = useHistory();
+
     function handleSubmit(e) {
       e.preventDefault();
 
@@ -29,7 +32,7 @@ function NewMovieForm( { onAddItem } ) {
          body: JSON.stringify(formData),
       })
       .then((resp) => resp.json())
-      .then((newItem) => console.log(newItem))
+      .then((newItem) => onAddItem(newItem))
     }
 
     function handleChange(e) {
