@@ -27,7 +27,7 @@
 - db.json movies 
 https://gist.github.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4
 
--Json server
+JSON-SERVER
 To start the json server run the following command in your terminal:
 json-server --watch db.json
 
