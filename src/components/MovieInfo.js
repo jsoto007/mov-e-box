@@ -7,7 +7,7 @@ function MovieInfo() {
     const {plot, language, actors, awards, poster, title} = itemInfo
     
     useEffect(() => {
-        fetch(`http://localhost:3000/movies/${id}`)
+        fetch(`http://localhost:3002/movies/${id}`)
             .then((resp) => resp.json())
             .then((data) => setItemInfo(data))
     }, [id])

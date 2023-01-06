@@ -13,7 +13,7 @@
 - Use the `git clone` command followed by pasting the GitHub repo, and press enter.
 - CD (change directory) into the file.
 - Open the file.
-- Run in the terminal `json-server --watch db.json` 
+- Run in the terminal `json-server --watch db.json --port 3002` the port lines up with the fetch request in the program. 
 - Run  `npm start ` in your terminal to open the page in your internet browser.
 
 #Technologies

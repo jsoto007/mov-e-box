@@ -14,7 +14,7 @@ function App() {
   const [movieData, setMovieData] = useState([])
 
   useEffect(() => {
-    fetch("http://localhost:3000/movies")
+    fetch("http://localhost:3002/movies")
       .then((resp)=> resp.json())
       .then((data) => setMovieData(data))
   }, [])
@@ -31,11 +31,11 @@ function App() {
           <Route exact path="/">
             <Header />
           </Route>
+          <Route path="/movies">
+            <MovieContainer movieData={movieData} />
+          </Route>
           <Route  exact path="/movies/:id">
             <MovieInfo movieData={movieData} />
-          </Route>
-          <Route exact path="/movies">
-            <MovieContainer movieData={movieData} />
           </Route>
           <Route exact path="/about">
             <About />
@@ -44,7 +44,6 @@ function App() {
             <NewMovieForm onAddItem={handleAddItem} />
           </Route>
         </Switch>
-      
       </header>
     </div>
   );

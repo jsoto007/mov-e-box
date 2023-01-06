@@ -1,20 +1,25 @@
 import React from "react";
-import About from "./About";
 import { NavLink } from "react-router-dom";
 
 function MovieCard( { movieData } ) {
     const { id,title, year, genre, runtime, poster} = movieData
 
+    function handleDeleteClick() {
+        
+    }
     return (
             <div className="movie-card">
               
                 <img src={poster} alt={title} />
-                <ul>Release: {year}</ul>
-                <ul>Genre: {genre}</ul>
-                <ul>Runtime: {runtime}</ul>
+                <ul id="">
+                    <li>Release: {year}</li>
+                    <li>Genre: {genre}</li>
+                    <li>Runtime: {runtime}</li>
+                </ul>
                 <NavLink to={`/movies/${id}`}>
-                Movie Info
+                Movie Details
                 </NavLink>
+                <button id="delete-btn" onClick={handleDeleteClick}>🗑️</button>
             </div>
     )
 }
