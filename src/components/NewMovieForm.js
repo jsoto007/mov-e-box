@@ -32,7 +32,11 @@ function NewMovieForm( { onAddItem } ) {
          body: JSON.stringify(formData),
       })
       .then((resp) => resp.json())
-      .then((newItem) => onAddItem(newItem))
+      .then((newItem) => {
+         onAddItem(newItem)
+         console.log(newItem)
+         history.push(`movies/${newItem.id}`)
+      })
     }
 
     function handleChange(e) {
@@ -49,6 +53,7 @@ function NewMovieForm( { onAddItem } ) {
             <input 
                type="text"
                name="title"
+               className="movie-form"
                id="title"
                value={formData.title}
                onChange={handleChange}
@@ -58,6 +63,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="poster"
                id="poster"
+               className="movie-form"
                value={formData.poster}
                onChange={handleChange}
                placeholder="Poster URL"
@@ -66,6 +72,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="released"
                id="released"
+               className="movie-form"
                value={formData.released}
                onChange={handleChange}
                placeholder="Release Date"
@@ -75,6 +82,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="rated"
                id="rated"
+               className="movie-form"
                value={formData.rated}
                onChange={handleChange}
                placeholder="Rated"
@@ -83,6 +91,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="runtime"
                id="runtime"
+               className="movie-form"
                value={formData.runtime}
                onChange={handleChange}
                placeholder="Runtime"
@@ -91,6 +100,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="genre"
                id="genre"
+               className="movie-form"
                value={formData.genre}
                onChange={handleChange}
                placeholder="Genre"
@@ -99,6 +109,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="director"
                id="director"
+               className="movie-form"
                value={formData.director}
                onChange={handleChange}
                placeholder="Director"
@@ -107,6 +118,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="writer"
                id="writer"
+               className="movie-form"
                value={formData.writer}
                onChange={handleChange}
                placeholder="writer"
@@ -115,6 +127,8 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="actors"
                id="actors"
+               
+               className="movie-form"
                value={formData.actors}
                onChange={handleChange}
                placeholder="actors"
@@ -123,6 +137,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="plot"
                id="plot"
+               className="movie-form"
                value={formData.plot}
                onChange={handleChange}
                placeholder="Plot"
@@ -131,6 +146,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="languageot"
                id="language"
+               className="movie-form"
                value={formData.language}
                onChange={handleChange}
                placeholder="language"
@@ -139,6 +155,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="awards"
                id="awards"
+               className="movie-form"
                value={formData.awards}
                onChange={handleChange}
                placeholder="awards"
@@ -147,6 +164,7 @@ function NewMovieForm( { onAddItem } ) {
                type="text"
                name="type"
                id="type"
+               className="movie-form"
                value={formData.type}
                onChange={handleChange}
                placeholder="type"

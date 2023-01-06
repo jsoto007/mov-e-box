@@ -14,7 +14,7 @@ function Search( { searchData, setSearchData } ) {
             value={searchData}
             onChange={(e) => setSearchData(e.target.value)}
           />
-          <button type="submit">👀</button>
+          <button type="submit">Search</button>
         </form>
     )
 }

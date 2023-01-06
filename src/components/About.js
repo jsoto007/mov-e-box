@@ -1,7 +1,7 @@
 import React from "react";
 
-function About( { movieData } ) {
-    // const {plot, language, actors, awards} = movieData
+function About() {
+
     return (
         <div>
           #About component
