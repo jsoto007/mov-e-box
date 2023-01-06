@@ -16,6 +16,12 @@
 - Run in the terminal `json-server --watch db.json` 
 - Run  `npm start ` in your terminal to open the page in your internet browser.
 
+#Technologies
+- JavaScript 
+- CSS
+- React.js
+- HTML
+
 #### Resources #### 
 
 - db.json movies 
