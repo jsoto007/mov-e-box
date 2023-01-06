@@ -14,10 +14,13 @@ function MovieInfo() {
     return (
         <div className="move-information">
             <img src={poster} alt={title} />
-                <ul>Plot: {plot}</ul>
-                <ul>Actors: {actors}</ul>
-                <ul>Awards: {awards}</ul>
-                <ul>Language: {language}</ul>
+                <ul>
+                    <li>Plot: {plot}</li>
+                    <li>Actors: {actors}</li>
+                    <li>Actors: {actors}</li>
+                    <li>Awards: {awards}</li>
+                    <li>Language: {language}</li>
+                </ul>
         </div>
     )
 }

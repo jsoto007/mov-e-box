@@ -38,6 +38,7 @@ nav a.active {
 img {
   height: 235px;
   width: 255px;
+  border-radius: 7px;
 } 
 
 .movie-card {
@@ -47,6 +48,27 @@ img {
   /* border: 2px solid rgba(119, 119, 119, 0.239); */
 }
 
+button {
+  border-radius: 9px;
+}
+
+input {
+  border-radius: 9px;
+}
+
+li {
+  display: block;
+  font-size: x-large;
+  padding: 7px;
+  font-style: inherit;
+}
+
+form {
+  display: block;
+  font-size: x-large;
+  padding: 5px;
+  font-style: inherit;
+}
 
 
 

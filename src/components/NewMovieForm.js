@@ -34,7 +34,6 @@ function NewMovieForm( { onAddItem } ) {
       .then((resp) => resp.json())
       .then((newItem) => {
          onAddItem(newItem)
-         console.log(newItem)
          history.push(`movies/${newItem.id}`)
       })
     }
