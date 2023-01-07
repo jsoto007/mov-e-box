@@ -5,7 +5,6 @@ import Header from "./Header"
 import MovieContainer from './MovieContainer';
 import NavBar from './NavBar';
 import MovieInfo from "./MovieInfo"
-import About from './About';
 import NewMovieForm from './NewMovieForm';
 
 
@@ -36,9 +35,6 @@ function App() {
           </Route>
           <Route  exact path="/movies/:id">
             <MovieInfo movieData={movieData} />
-          </Route>
-          <Route exact path="/about">
-            <About />
           </Route>
           <Route path="/add-movies">
             <NewMovieForm onAddItem={handleAddItem} />

@@ -13,12 +13,6 @@ function NavBar() {
             </NavLink>
             <NavLink
               className="nav-link"
-              to="about"
-              >
-                About
-            </NavLink>
-            <NavLink
-              className="nav-link"
               to="/movies"
               exact
               >
