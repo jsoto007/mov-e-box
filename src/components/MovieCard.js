@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 function MovieCard( { movieData } ) {
     const { id,title, year, genre, runtime, poster} = movieData
 
-    function handleDeleteClick() {
+    // function handleDeleteClick() {
         
-    }
+    // }
     return (
             <div className="movie-card">
               
@@ -19,7 +19,7 @@ function MovieCard( { movieData } ) {
                 <NavLink to={`/movies/${id}`}>
                 Movie Details
                 </NavLink>
-                <button id="delete-btn" onClick={handleDeleteClick}>🗑️</button>
+                {/* <button id="delete-btn" onClick={handleDeleteClick}>🗑️</button> */}
             </div>
     )
 }

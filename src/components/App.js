@@ -30,7 +30,7 @@ function App() {
           <Route exact path="/">
             <Header />
           </Route>
-          <Route path="/movies">
+          <Route exact path="/movies">
             <MovieContainer movieData={movieData} />
           </Route>
           <Route  exact path="/movies/:id">

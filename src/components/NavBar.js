@@ -24,6 +24,7 @@ function NavBar() {
               >
                 Add Movies
               </NavLink>
+
         </nav>
     )
 }

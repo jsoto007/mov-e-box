@@ -275,6 +275,54 @@
       "awards": "N/A",
       "poster": "https://flxt.tmsimg.com/assets/p12738283_b_v13_ad.jpg",
       "type": "series"
+    },
+    {
+      "title": "thor ",
+      "poster": "https://www.previewsworld.com/SiteImage/MainImage/STL206012.jpg",
+      "released": "2018",
+      "rated": "",
+      "runtime": "",
+      "genre": "",
+      "director": "",
+      "writer": "",
+      "actors": "",
+      "plot": "",
+      "language": "",
+      "awards": "",
+      "type": "",
+      "id": 17
+    },
+    {
+      "title": "Thor ",
+      "poster": "https://www.previewsworld.com/SiteImage/MainImage/STL206012.jpg",
+      "released": "2022",
+      "rated": "R",
+      "runtime": "2 hours",
+      "genre": "",
+      "director": "",
+      "writer": "",
+      "actors": "",
+      "plot": "",
+      "language": "",
+      "awards": "",
+      "type": "",
+      "id": 18
+    },
+    {
+      "title": "Wakanda forever",
+      "poster": "https://resizing.flixster.com/QJkeIM6LIvwmRGiLKrNBcpZIk8M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwYzExZjlmLWJlODQtNDY4Mi1iNDhkLWU2YWNmMGIyMDgwMi5qcGc=",
+      "released": "2022",
+      "rated": "",
+      "runtime": "",
+      "genre": "",
+      "director": "",
+      "writer": "",
+      "actors": "",
+      "plot": "",
+      "language": "",
+      "awards": "",
+      "type": "",
+      "id": 19
     }
   ]
 }
