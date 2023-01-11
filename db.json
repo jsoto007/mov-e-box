@@ -277,9 +277,9 @@
       "type": "series"
     },
     {
-      "title": "thor ",
-      "poster": "https://www.previewsworld.com/SiteImage/MainImage/STL206012.jpg",
-      "released": "2018",
+      "title": "Wakanda forever",
+      "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F68ka12lvrqc91.jpg&f=1&nofb=1&ipt=35fbba046f0617b01bb6df6f27650276edf1aebe798f5a5f3256b61e1a512153&ipo=images",
+      "released": "2022",
       "rated": "",
       "runtime": "",
       "genre": "",
@@ -293,25 +293,9 @@
       "id": 17
     },
     {
-      "title": "Thor ",
-      "poster": "https://www.previewsworld.com/SiteImage/MainImage/STL206012.jpg",
-      "released": "2022",
-      "rated": "R",
-      "runtime": "2 hours",
-      "genre": "",
-      "director": "",
-      "writer": "",
-      "actors": "",
-      "plot": "",
-      "language": "",
-      "awards": "",
-      "type": "",
-      "id": 18
-    },
-    {
-      "title": "Wakanda forever",
-      "poster": "https://resizing.flixster.com/QJkeIM6LIvwmRGiLKrNBcpZIk8M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwYzExZjlmLWJlODQtNDY4Mi1iNDhkLWU2YWNmMGIyMDgwMi5qcGc=",
-      "released": "2022",
+      "title": "",
+      "poster": "",
+      "released": "",
       "rated": "",
       "runtime": "",
       "genre": "",
@@ -322,7 +306,7 @@
       "language": "",
       "awards": "",
       "type": "",
-      "id": 19
+      "id": 18
     }
   ]
 }
