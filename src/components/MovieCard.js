@@ -2,17 +2,9 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 function MovieCard( { movieData } ) {
-    const { id,title, year, genre, runtime, poster} = movieData
+    const { id, title, poster} = movieData
 
-   function handleMouseOn() {
-      return (
-         <ul>
-            <li>Release: {year}</li>
-            <li>Genre: {genre}</li>
-            <li>Runtime: {runtime}</li>
-        </ul>
-      )
-   }
+
     return (
             <div className="movie-card">
                     <li>{title}</li>
