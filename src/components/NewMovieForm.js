@@ -168,6 +168,7 @@ function NewMovieForm( { onAddItem } ) {
                onChange={handleChange}
                placeholder="type"
             />
+            <br />
             <button type="submit">Add Movie</button>
          </form>  
         </div>

@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom"
 function MovieInfo() {
     const [itemInfo, setItemInfo] = useState([])
     const { id } = useParams();
-    const {plot, language, actors, awards, poster, title} = itemInfo
+    const {plot, language, actors, awards, poster, title, released} = itemInfo
     
     useEffect(() => {
         fetch(`http://localhost:3002/movies/${id}`)
@@ -15,6 +15,8 @@ function MovieInfo() {
         <div className="move-information">
             <img src={poster} alt={title} />
                 <ul>
+                    <li>{title}</li>
+                    <li>Released: {released}</li>
                     <li>Plot: {plot}</li>
                     <li>Actors: {actors}</li>
                     <li>Actors: {actors}</li>
