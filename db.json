@@ -291,6 +291,22 @@
       "awards": "",
       "type": "",
       "id": 17
+    },
+    {
+      "title": "spider man",
+      "poster": "json-server --watch db.json --port 3002",
+      "released": "2022",
+      "rated": "",
+      "runtime": "",
+      "genre": "",
+      "director": "",
+      "writer": "",
+      "actors": "",
+      "plot": "",
+      "language": "",
+      "awards": "",
+      "type": "",
+      "id": 18
     }
   ]
 }

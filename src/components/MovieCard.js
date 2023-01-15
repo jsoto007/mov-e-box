@@ -16,7 +16,6 @@ function MovieCard( { movieData } ) {
                 >
                 Movie Details
                 </NavLink>
-                {/* <button id="delete-btn" onClick={handleDeleteClick}>🗑️</button> */}
             </div>
     )
 }
