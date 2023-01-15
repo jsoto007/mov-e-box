@@ -2,8 +2,14 @@ import React, { useState } from "react";
 import MovieCard from "./MovieCard";
 import Search from "./Search";
 
-function MovieContainer( { movieData } ) {
+function MovieContainer( { movieData, setMovieData } ) {
   const [searchData, setSearchData] = useState("")
+
+  function handleDeleteItem(deletedItem) {
+    const updatedItems = movieData.filter((item) => item.id !== deletedItem.id)
+    setMovieData(updatedItems);
+
+  }
 
   const updatedDisplayItems = movieData.filter((item) => {
     return (
@@ -21,6 +27,7 @@ function MovieContainer( { movieData } ) {
               updatedDisplayItems.map((item) => {
                 return (
                   <MovieCard 
+                    onDeleteItem={handleDeleteItem}
                     movieData={item}
                     key={item.id}
                   />

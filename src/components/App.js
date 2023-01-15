@@ -30,7 +30,7 @@ function App() {
             <Header />
           </Route>
           <Route exact path="/movies">
-            <MovieContainer movieData={movieData} />
+            <MovieContainer movieData={movieData} setMovieData={setMovieData} />
           </Route>
           <Route  exact path="/movies/:id">
             <MovieInfo movieData={movieData} />
