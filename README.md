@@ -1,5 +1,5 @@
 # About the App
-- This program is a movie database allowing users to request and upload information to/from a server. The app allows the user to add movies in the add new movie form accessible via the navigation var. The user can see the films in the movies component, access more information about a particular movie, and it gives the ability to delete a movie. This app renders only one index.html file in which different components are mounted and unmounted depending on the user's activity. Having one HTML file allows for a more reactive app and smooth transitions. 
+This program is a movie database allowing users to request and upload information to/from a server. The app allows the user to add movies in the add new movie form accessible via the navigation var. The user can see the films in the movies component, access more information about a particular movie, and it gives the ability to delete a movie. This app renders only one index.html file in which different components are mounted and unmounted depending on the user's activity. Having one HTML file allows for a more reactive app and smooth transitions. 
 
 ## Requirements to install and run this program.
 - JSON server.
